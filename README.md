@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://github.com/ruivianapt/ruivianapt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruivianapt&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Rui's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruivianapt&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rui%20Viana%27s%20Github%20Stats" alt="Rui's GitHub Stats" />
 </a>
 <br><br>
 
@@ -62,7 +62,4 @@
 </a>
 <br><br>
 
-<a href="https://github.com/ruivianapt/ruivianapt">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ruivianapt&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Rui's GitHub Contributions Graph"/>
-</a>
 <br><br>
